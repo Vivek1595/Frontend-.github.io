@@ -12,7 +12,7 @@ function HeaderApp() {
                 <img src={logo} alt="brandlogo" className='img-fluid w-75' />
               </div>
               <div>
-                <h1 className="m-0 me-4 text-success">Nest</h1>
+                <h1 className="m-0 me-4 text-success">Basket</h1>
                 <p className="bottomtext">Fruit & Vegetables</p>
               </div>
             </div>
